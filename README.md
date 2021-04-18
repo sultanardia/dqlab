@@ -1,1 +1,1 @@
-# dqlab
+# course
